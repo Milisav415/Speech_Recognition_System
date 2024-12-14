@@ -29,7 +29,9 @@ The **Speech Recognition System** is a machine learning-based solution designed 
    
 2. **Model Training**: 
    - The system processes the database to train a model tailored to the input data, by reducing the dimensions of the feature vector down to 3D space, here is picture of the final result:
-   <img src="assets/2024-12-14_16-20.PNG" alt="Alt Text" width="256" height="256">
+
+<img src="assets/2024-12-14_16-20.PNG" alt="Alt Text" width="256" height="256">
+   
    -here we can see all 4 calsses nicely gruped up and ready for classification.
 
 3. **Recognition**: 
