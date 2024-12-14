@@ -4,11 +4,10 @@ You can view the main script [here](https://raw.githubusercontent.com/Milisav415
 
 ## 📂 Table of Contents
 
-2. [Key Features](#key-features)
-3. [How It Works](#how-it-works)
-4. [Applications](#applications)
-5. [Installation](#installation)
-6. [License](#license)
+1. [Key Features](#key-features)
+2. [How It Works](#how-it-works)
+3. [Applications](#applications)
+4. [Installation](#installation)
 
 ## 🚀 Description
 
@@ -44,4 +43,8 @@ Step-by-step guide to set up your project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Milisav415/Speech_Recognition_System.git
+2. Add the path to your test and training database in the main section
+
+## Lincence 
+Under MIT licence
 
