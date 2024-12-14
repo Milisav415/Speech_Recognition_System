@@ -54,4 +54,4 @@ Step-by-step guide to set up your project locally:
 2. Add the path to your test and training database in the main section
 
 ## **Thank you for exploring my project!** 
-If you'd like to learn more about my background and qualifications, please visit my [LinkedIn profile]
+If you'd like to learn more about my background and qualifications, please visit my [LinkedIn profile](https://www.linkedin.com/in/milisav-jovanovic-059969336/)
