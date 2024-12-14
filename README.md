@@ -4,7 +4,7 @@ You can view the main script [here](https://raw.githubusercontent.com/Milisav415
 
 ## 📂 Table of Contents
 
-1. [Usage](#🚀 Description)
+1. [Usage](#Description)
 2. [Features](#features)
 3. [Screenshots](#screenshots)
 4. [License](#license)
