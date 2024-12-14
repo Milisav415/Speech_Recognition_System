@@ -44,7 +44,3 @@ Step-by-step guide to set up your project locally:
    ```bash
    git clone https://github.com/Milisav415/Speech_Recognition_System.git
 2. Add the path to your test and training database in the main section
-
-## Lincence 
-Under MIT licence
-
