@@ -25,13 +25,11 @@ The **Speech Recognition System** is a machine learning-based solution designed 
    - This system is designed around four different words, or "classes," as they are referred to in the source code. The number of classes is modular and easy to change by editing a constant in the source code.
    - The database must have the same number of examples (audio files) for each word.
    - Finaly the algorithm goes through each audio file and extractes the features from them, down below you can see MFCCs through time.
-   <img src="assets/log_mel_spec.PNG" alt="Alt Text" width="256" height="256">
+   <img src="assets/log_mel_spec.PNG" width="256" height="256">
    
 2. **Model Training**: 
    - The system processes the database to train a model tailored to the input data, by reducing the dimensions of the feature vector down to 3D space, here is picture of the final result:
-
-<img src="assets/2024-12-14_16-20.PNG" alt="Alt Text" width="256" height="256">
-   
+   - <img src="assets/2024-12-14_16-20.PNG" alt="Alt Text" width="256" height="256">
    -here we can see all 4 calsses nicely gruped up and ready for classification.
 
 3. **Recognition**: 
