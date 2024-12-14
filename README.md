@@ -1,7 +1,7 @@
 # Speech_Recognition_System
 # Project Title
 
-![Project main file](path-to-your-image-or-url)
+You can view the main script [here](https://raw.githubusercontent.com/Milisav415/Speech_Recognition_System/refs/heads/main/main.py).
 
 ## 🚀 Description
 
