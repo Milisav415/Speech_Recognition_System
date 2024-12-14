@@ -1,11 +1,11 @@
 # Speech_Recognition_System
 # Project Title
 
-![Project main file](path-to-your-image-or-url "Optional Title Text")
+![Project main file](path-to-your-image-or-url)
 
 ## 🚀 Description
 
-The Spoken Word Recognition System is a machine learning-based solution designed to recognize spoken words from audio input. It trains a model using a provided audio database, allowing for customization and high accuracy in specific applications. The system is capable of processing diverse speech patterns, accents, and background noise, making it versatile and effective.
+The Speech Recognition System is a machine learning-based solution designed to recognize spoken words from audio input. It trains a model using a provided audio database, allowing for customization and high accuracy in specific applications. The system is capable of processing diverse speech patterns, accents, and background noise, making it versatile and effective.
 
 Key Features:
 -Custom Model Training: Trains a word recognition model based on your database of audio samples.
