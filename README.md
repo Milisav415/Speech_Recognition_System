@@ -2,6 +2,13 @@
 
 You can view the main script [here](https://raw.githubusercontent.com/Milisav415/Speech_Recognition_System/refs/heads/main/main.py).
 
+## 📂 Table of Contents
+
+1. [Usage](#🚀 Description)
+2. [Features](#features)
+3. [Screenshots](#screenshots)
+4. [License](#license)
+
 ## 🚀 Description
 
 The **Speech Recognition System** is a machine learning-based solution designed to recognize spoken words from audio input. It trains a model using a provided audio database, allowing for customization and high accuracy in specific applications. The system is capable of processing diverse speech patterns, accents, and background noise, making it versatile and effective.
@@ -29,13 +36,6 @@ The **Speech Recognition System** is a machine learning-based solution designed 
 - **Customizable Solutions**: Adapt the system for industry-specific requirements, such as healthcare or education.
 
 ---
-
-## 📂 Table of Contents
-
-1. [Usage](#usage)
-2. [Features](#features)
-3. [Screenshots](#screenshots)
-4. [License](#license)
 
 ## ⚙️ Installation
 
