@@ -4,10 +4,11 @@ You can view the main script [here](https://raw.githubusercontent.com/Milisav415
 
 ## 📂 Table of Contents
 
-1. [Usage](#Description)
-2. [Features](#features)
-3. [Screenshots](#screenshots)
-4. [License](#license)
+2. [Key Features](#key-features)
+3. [How It Works](#how-it-works)
+4. [Applications](#applications)
+5. [Installation](#installation)
+6. [License](#license)
 
 ## 🚀 Description
 
