@@ -44,3 +44,6 @@ Step-by-step guide to set up your project locally:
    ```bash
    git clone https://github.com/Milisav415/Speech_Recognition_System.git
 2. Add the path to your test and training database in the main section
+
+## **Thank you for exploring my project!** 
+If you'd like to learn more about my background and qualifications, please visit my [LinkedIn profile]
